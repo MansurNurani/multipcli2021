@@ -7,8 +7,12 @@
 ## Install
 
 ```bash
-npm install --save multipcli2021
+npm install  multipcli2021
 ```
+
+`
+salam
+`
 
 ## Usage
 
